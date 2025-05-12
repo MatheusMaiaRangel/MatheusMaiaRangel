@@ -8,7 +8,9 @@ Sou um desenvolvedor Full Stack fanático pelo Flamengo e estudo Desenvolvimento
 ## 📂 Projetos
 
 Ainda estou começando, mas aqui vão alguns deles:
-- 👨‍🎓 [crud-alunos](https://github.com/MatheusMaiaRangel/crud_alunos) – Gerenciamento de alunos com PHP, MySQL e algumas funções em JS.
+- 👨‍🎓 [Thurma](https://github.com/MatheusMaiaRangel/thurma) – Gerenciamento de alunos com PHP, MySQL e algumas funções em JS.
+- 🩺 [Registro Vital](https://github.com/MatheusMaiaRangel/Registro_Vital) – Colar com QR Code que oferece acesso rápido a informações médicas essenciais em situações de emergência.
+
 
 Esperem por mais!
 
@@ -21,7 +23,7 @@ Esperem por mais!
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
+ 
   ##
  
 <div> 
