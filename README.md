@@ -30,4 +30,6 @@ Esperem por mais!
   <a href="https://instagram.com/mmr.maia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-9b34eb?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2C2C2C&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" class="gh-light-mode-only" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2C2C2C&height=120&section=footer" class="gh-dark-mode-only" width="100%" />
