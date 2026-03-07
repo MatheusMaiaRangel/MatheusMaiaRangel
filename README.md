@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Sobre mim
 
-Sou um desenvolvedor fanático pelo Flamengo e estudo Desenvolvimento de Sistemas na ETEC como parte do meu ensino médio. Gosto de criar projetos explorando front-end, back-end e banco de dados, buscando novidades e diversão no processo. Sempre aprofundando meus conhecimentos na área para criar sistemas cada vez mais completos
+Sou um desenvolvedor fanático pelo Flamengo e estudo Análise e Desenvolvimento de Sistemas na FATEC. Gosto de criar projetos explorando front-end, back-end e banco de dados, buscando novidades e diversão no processo. Sempre aprofundando meus conhecimentos na área para criar sistemas cada vez mais completos
 
 ## 📂 Projetos
 
